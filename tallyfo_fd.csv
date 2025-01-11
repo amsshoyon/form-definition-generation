@@ -1,0 +1,87 @@
+section_codename,section_name,field_label,field_name,required,row_position,column_position
+business_information,Business Information,Business Name_FO,business_name_fo,,1,1
+business_information,Business Information,Business Name,business_name,Y,2,1
+business_information,Business Information,Business Type,business_type,,3,1
+business_information,Business Information,Business start date(YYYYMMDD),customer_reported_business_start_date,Y,4,1
+business_information,Business Information,Months in this location,business_age_in_month_in_this_location,Y,5,1
+business_information,Business Information,Business Address,business_address,Y,6,1
+business_information,Business Information,Business Ownership Type,business_ownership_type,,7,1
+business_information,Business Information,Business Ownership Share (%),business_ownership_share_pct,,8,1
+business_information,Business information,Does the owner have Trade License?,has_trade_license,Y,9,1
+business_information,Business Information,Shop Ownership,shop_ownership,Y,10,1
+business_information,Business Information,Shop Structure,shop_structure,Y,11,1
+business_information,Business Information,Monthly Physical Sales,customer_reported_average_monthly_physical_sales_amt,Y,12,1
+business_information,Business Information,Monthly Digital Sales,customer_reported_average_monthly_digital_sales_amt,,13,1
+business_information,Business Information,Customer Reported Average Monthly Sales Amount,customer_reported_average_monthly_sales_amount,,14,1
+business_information,Business Information,Physical Inventory Value,customer_reported_physical_inventory_amount,,15,1
+business_information,Business Information,Digital Inventory Value,customer_reported_digital_inventory_amount,,16,1
+business_information,Business Information,Business Inventory Amount,business_inventory_amount,,17,1
+business_information,Business Information,A/C Receivable (Tally Khata),ac_receivable,Y,18,1
+business_information,Business Information,A/C Payable,ac_payable,Y,19,1
+business_information,Business Information,No Of Employees,no_of_employees,,20,1
+business_information,Business Information,Shop Area (sqft),shop_area_in_sqft,Y,21,1
+business_information,Business Information,Employee Salary And Wages Amount,employee_salary_and_wages_amount,Y,22,1
+business_information,Business Information,"Monthly Business Running Expense [ex: utility bill, rent]",customer_reported_monthly_business_running_expenses_amount,Y,23,1
+business_information,Business Information,Gross Profit Margin,gross_profit_margin,,24,1
+business_information,Business Information,Net Profit,net_profit,Y,25,1
+business_information,Business Information,Net Profit From Other Sources,net_profit_from_other_sources,Y,26,1
+personal_information,Personal Information,Applicant Name English,applicant_name_english,Y,1,1
+personal_information,Personal Information,Gender,gender,Y,2,1
+personal_information,Personal Information,Applicant's Religion,applicant_religion,Y,3,1
+personal_information,Personal Information,Marital Status Personal,marital_status_personal,Y,4,1
+personal_information,Personal Information,No Of Dependants In Family,no_of_dependants_in_family,Y,5,1
+personal_information,Personal Information,Residence Ownership Personal,residence_ownership_personal,Y,6,1
+personal_information,Personal Information,How Many family members contribute to the income?,no_of_family_members_contributing_to_income,Y,7,1
+personal_information,Personal Information,Present Address Road House,present_address_road_house,Y,8,1
+personal_information,Personal Information,Post Code Personal,post_code_personal,Y,9,1
+personal_information,Personal Information,Are Present And Permanent Address Same,are_present_and_permanent_address_same,Y,10,1
+personal_information,Personal Information,Business Mobile Number,business_mobile_number,Y,11,1
+personal_information,Personal Information,Occupation,occupation,Y,12,1
+personal_information,Personal Information,Educational Qualification Personal,educational_qualification_personal,,13,1
+personal_information,Personal Information,Is Cooperative Society Member,is_cooperative_society_member,,14,1
+personal_information,Personal Information,Is Local Chamber Of Commerce Member,is_local_chamber_of_commerce_member,,15,1
+personal_information,Personal Information,Is Member of Banik Samity,is_member_of_banik_samity,,16,1
+personal_information,Personal Information,ইমেইল (যদি থাকে),personal_email_id,Y,17,1
+see_and_mark_if_available_in_shop,See and mark if available in shop:,Has Refrigerator,has_refrigerator,,1,1
+see_and_mark_if_available_in_shop,See and mark if available in shop:,Does the owner have corporate signboard?,has_corporate_signboard,,2,1
+see_and_mark_if_available_in_shop,See and mark if available in shop:,Has Vici Cooler,has_vici_cooler,,3,1
+see_and_mark_if_available_in_shop,See and mark if available in shop:,Is Storeroom Available,is_storeroom_available,Y,4,1
+loan_nformation,Loan Information,Requested Loan Amount,requested_loan_amount,Y,1,1
+loan_nformation,Loan Information,Loan Purpose Description,loan_purpose_description,,2,1
+loan_nformation,Loan Information,Preferred Branch for Loan Account,preferred_branch_for_loan_account,Y,3,1
+nominee_information,Nominee Information,Has Nominee?,has_nominee_for_loan,Y,1,1
+nominee_information,Nominee Information,Name of nominee,has_nominee_for_loan.sub_dp.nominee_name,Y,2,1
+nominee_information,Nominee Information,Nominee's Relationship,has_nominee_for_loan.sub_dp.relationship_with_nominee,Y,3,1
+nominee_information,Nominee Information,Nominee's Mobile Number,has_nominee_for_loan.sub_dp.nominee_mobile,Y,4,1
+nominee_information,Nominee Information,Nominee's NID Number,DP Changed,Y,5,1
+nominee_information,Nominee Information,Nominee's DOB,has_nominee_for_loan.sub_dp.nominee_date_of_birth,Y,6,1
+nominee_information,Nominee Information,Father name of nominee,has_nominee_for_loan.sub_dp.father_name_eng,Y,7,1
+nominee_information,Nominee Information,Mother name of nominee,has_nominee_for_loan.sub_dp.mother_name_eng,Y,8,1
+nominee_information,Nominee Information,Present Post Code,has_nominee_for_loan.sub_dp.post_code_present,Y,9,1
+nominee_information,Nominee Information,Present Address,has_nominee_for_loan.sub_dp.present_address,Y,10,1
+nominee_information,Nominee Information,Permanent Post Code,has_nominee_for_loan.sub_dp.post_code_permanent,Y,11,1
+nominee_information,Nominee Information,Permanent Address,has_nominee_for_loan.sub_dp.permanent_address,Y,12,1
+previous_loan_history,Previous loan history,Is Loan Or Credit Facilities Taken From Bank Or Fi,is_loan_or_credit_facilities_taken_from_bank_or_fi,Y,1,1
+previous_loan_history,Previous loan history,Existing Loan Amount,is_loan_or_credit_facilities_taken_from_bank_or_fi.sub_dp.existing_loan_amount,Y,2,1
+previous_loan_history,Previous loan history,Lender Name,is_loan_or_credit_facilities_taken_from_bank_or_fi.sub_dp.existing_loan_lender_personal,Y,3,1
+previous_loan_history,Previous loan history,Name of loan taken branch,is_loan_or_credit_facilities_taken_from_bank_or_fi.sub_dp.lender_branch,Y,4,1
+previous_loan_history,Previous loan history,Remaining loan amount,is_loan_or_credit_facilities_taken_from_bank_or_fi.sub_dp.remaining_loan_amount_personal,Y,5,1
+previous_loan_history,Previous loan history,Monthly Installment Amount,is_loan_or_credit_facilities_taken_from_bank_or_fi.sub_dp.applicant_existing_personal_loan_installment_amount,,6,1
+previous_loan_history,Previous loan history,Prev Loan 1: Lender,prev_loan_1_lender,Y,7,1
+previous_loan_history,Previous loan history,Prev Loan 1: Amount,prev_loan_1_amount,Y,8,1
+photo_segment,Photo segment,Nominee's NID Photo (front),has_nominee_for_loan.sub_dp.nominee_nid_front ,Y,1,1
+photo_segment,Photo segment,Nominee's NID Photo (back),has_nominee_for_loan.sub_dp.nominee_nid_back,Y,2,1
+photo_segment,Photo segment,Nominee Photo,has_nominee_for_loan.sub_dp.nid_info.nominee_photo,,3,1
+photo_segment,Photo segment,Loan Purpose Audio,loan_purpose_audio,,4,1
+photo_segment,Photo segment,Shop Outside With Banner Or Signboard Photo,shop_outside_with_banner_or_signboard_photo,Y,5,1
+photo_segment,Photo segment,Shop & Owner,shop_n_owner,,6,1
+photo_segment,Photo segment,Shop With Adjacent Shops Photo,shop_with_adjacent_shops_photo,,7,1
+photo_segment,Photo segment,Shop Inventory,shop_inventory_photo,Y,8,1
+photo_segment,Photo segment,Trade License Photo,trade_license_photo,Y,9,1
+photo_segment,Photo segment,Photo Of Business Utility Bill,photo_of_business_utility_bill,,10,1
+photo_segment,Photo segment,FMCG Invoice,fmcg_invoice,,11,1
+photo_segment,Photo segment,Photo Of Family,photo_of_family,,12,1
+photo_segment,Photo segment,Applicant's Signature,photo_of_applicant_signature,Y,13,1
+feedback_on_merchant,Feedback on Merchant,FO Rating For Merchant,fo_rating_for_merchant,,1,1
+feedback_on_merchant,Feedback on Merchant,Negative Trait,negative_trait,,2,1
+feedback_on_merchant,Feedback on Merchant,Positive Trait,positive_trait,,3,1

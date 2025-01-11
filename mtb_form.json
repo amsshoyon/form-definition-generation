@@ -1,0 +1,27 @@
+{
+	"name": "TallyFO Form",
+	"code_name": "TallyFO Form",
+	"data_source": [],
+	"section_list": [
+		{
+			"name": "Business Information",
+			"code_name": "tallyfo_form_business_info",
+			"row_position": 1,
+			"column_position": 2,
+			"field_list": [
+				{
+					"label": "Business Name",
+					"name": "business_name",
+					"row_position": 1,
+					"column_position": 1,
+					"min_value": null,
+					"max_value": null,
+					"is_required": false,
+					"dependent_child": null,
+					"regex": null,
+					"is_editable": true
+				}
+			]
+		}
+	]
+}
